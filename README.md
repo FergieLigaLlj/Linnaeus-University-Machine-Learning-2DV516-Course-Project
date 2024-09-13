@@ -1,2 +1,2 @@
-# Linn-University-Machine-Learning-2dv516
+# Linnaeus-University-Machine-Learning-2DV516-Course-Project
 course code files
