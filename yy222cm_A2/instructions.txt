@@ -1,0 +1,10 @@
+After extracting the zip file, just put the files test-classification-models.py 
+and test-regression-models.py in the main folder.
+
+Then run 'python test-classification-models.py' 
+
+If errors are thrown, evaluate the method(s) that did not pass the test. 
+
+For some tests, prints with the betas (or thetas) are shown with the expected values. 
+
+Go over the tests to ensure you understand what is being tested. 
