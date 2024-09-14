@@ -10,4 +10,4 @@ Exercise 2: Visualization of Results:
 Apply DR techniques for each dataset and evaluate **performance** and **class separation**
 
 3.2. Comparison of Clustering Techniques: **Bisecting k-Means** with **classic k-Means** and **hierarchical clustering** (one chosen DR technique)
-**clustering technique peformance** and **clustering separation** effect again
+**clustering technique peformance** and **clustering separation** effect again.
