@@ -11,4 +11,4 @@ Logistic Regression (Lecture 3):
 
  Model Selection and Regularization (Lecture 4):
 1. Classes Implementations: **ROCAnalysis.py** and **ForwardSelection.py**: optimal regarding **TP-rate** metric
-2. Use implementations of ROCAnalysis and ForwardSelection: model selection with **f-score**, **validation** confirmation and conclusion.
+2. Use implementations of ROCAnalysis and ForwardSelection: model selection with **f-score**, **validation** confirmation and conclusion
