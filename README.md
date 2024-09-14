@@ -15,4 +15,4 @@ Exercise 4 :Various kernels: **Tune the parameter** for best model selection: ![
 
 Exercise 5: Implicit versus explicit: explicit model: **svm.SVC(kernel = ’linear’)** and **mapFeature** function; implicit: **svm.SVC(kernel = ’poly’, degree = d)**
 
-Exercise 6: One versus all MNIST: **rbf-kernels** performance optimization by **cross-validation**, comparison between **one-vs-one** and **one-vs-all** with **confusion matrix** again
+Exercise 6: One versus all MNIST: **rbf-kernels** performance optimization by **cross-validation**, comparison between **one-vs-one** and **one-vs-all** with **confusion matrix** again.
